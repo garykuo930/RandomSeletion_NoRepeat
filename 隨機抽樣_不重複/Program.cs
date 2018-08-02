@@ -13,7 +13,8 @@ namespace 抽籤
             string[] Lunch = new string[5] { "咖哩", "牛肉麵", "漢堡", "牛丼", "鍋貼" }; // 以陣列Lunch儲存目標字串
             int AssumeLength = Lunch.Length; // 為一假設之陣列長度，用作陣列內資料的儲存位置更換
 
-            for (int i = 0; i < Lunch.Length; i += 1)
+            // foreach (string i in Lunch)
+            for (int i = 0; i <= Lunch.Length; i += 1)
             {
                 Random k = new Random(); // 內建隨機方法，與以下的.NextDouble()方法搭配
                 double RandomNumber = k.NextDouble(); // 將變數RandomNumber置於for迴圈內，第二次執行迴圈才會是不同的值
