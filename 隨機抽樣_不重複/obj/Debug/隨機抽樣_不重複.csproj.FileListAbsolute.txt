@@ -1,0 +1,7 @@
+D:\Csharp_startup\Exercise\Week 2\HW\隨機抽樣_不重複\隨機抽樣_不重複\bin\Debug\隨機抽樣_不重複.exe.config
+D:\Csharp_startup\Exercise\Week 2\HW\隨機抽樣_不重複\隨機抽樣_不重複\bin\Debug\隨機抽樣_不重複.exe
+D:\Csharp_startup\Exercise\Week 2\HW\隨機抽樣_不重複\隨機抽樣_不重複\bin\Debug\隨機抽樣_不重複.pdb
+D:\Csharp_startup\Exercise\Week 2\HW\隨機抽樣_不重複\隨機抽樣_不重複\obj\Debug\隨機抽樣_不重複.csprojAssemblyReference.cache
+D:\Csharp_startup\Exercise\Week 2\HW\隨機抽樣_不重複\隨機抽樣_不重複\obj\Debug\隨機抽樣_不重複.csproj.CoreCompileInputs.cache
+D:\Csharp_startup\Exercise\Week 2\HW\隨機抽樣_不重複\隨機抽樣_不重複\obj\Debug\隨機抽樣_不重複.exe
+D:\Csharp_startup\Exercise\Week 2\HW\隨機抽樣_不重複\隨機抽樣_不重複\obj\Debug\隨機抽樣_不重複.pdb
